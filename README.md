@@ -17,10 +17,6 @@
 
 </div>
 
-> Add a `LICENSE` file and a matching badge once you've picked one — an MIT/Apache badge without a file behind it is a claim the repo doesn't back up yet.
-
----
-
 ## Overview
 
 SkillBridge AI turns a plain-text career description into a structured career plan. Rather than a single LLM call, it runs a **sequential crew of four specialized agents** — each one reading the previous agent's output before doing its own job — so the final result is built up in stages rather than guessed in one shot.
